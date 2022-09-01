@@ -49,6 +49,7 @@
 ![Redmine](https://img.shields.io/badge/Redmine-B32024.svg?style=flat-square&logo=redmine&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC.svg?style=flat-square&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat-square&logo=bitbucket&logoColor=white)
 
 <!--
 **wldms3020/wldms3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
