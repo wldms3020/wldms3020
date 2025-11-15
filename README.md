@@ -4,52 +4,78 @@
 
 ### <div align="center">Hi I'm Jieun 👋</div>
 
-## 📚Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
-![jQeury](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## 💻 Frontend
 
-## 🗃Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
 
-## ⚙Operating System
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Module%20Federation-8DD6F9?style=flat&logo=webpack&logoColor=black" />
 
-## ✍Studying
-![React](https://img.shields.io/badge/React.js-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat-square&logo=openstack&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white)
+<br/>
 
-## 🔧Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=Eclipse&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Redmine](https://img.shields.io/badge/Redmine-B32024.svg?style=flat-square&logo=redmine&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-0052CC.svg?style=flat-square&logo=confluence&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat-square&logo=bitbucket&logoColor=white)
+### 🎨 UI / State & Data Management
+
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
+<img src="https://img.shields.io/badge/Chromatic-1EA7FD?style=flat&logo=chromatic&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logoColor=white" />
+
+<br/>
+
+### 🛠 Code Quality & Tooling
+
+<img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=eslint&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket%20Pipeline-0052CC?style=flat&logo=bitbucket&logoColor=white" />
+
+<br/>
+
+## 🔧 Backend / Server
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-B7178C?style=flat" />
+
+<br/>
+
+## 🗄 Database
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+
+<br/>
+
+## 📊 Visualization
+
+Highcharts · ECharts · Vis.js · Heatmap.js · Naver Map API
+
+<br/>
+
+## 🏢 Domain Experience
+
+FMS, EMS, CMP, AIOps 등 모빌리티와 인프라 모니터링 분야 경험
+
+<br/>
+
+## 📚 Studying / Learning
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldms3020&layout=compact" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=wldms3020&show_icons=true&count_private=true&theme=default" />
+</p> -->
 
 <!--
 **wldms3020/wldms3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
